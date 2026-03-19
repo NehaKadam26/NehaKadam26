@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi! I'm Neha Kadam
+*Data Science & Analytics · Mumbai, IN*
 
-<!--
-**NehaKadam26/NehaKadam26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+**Building** &nbsp; End-to-end data pipelines & dashboards that actually make sense.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Learning** &nbsp; Exploring how large language models work.
+
+**Collab** &nbsp;&nbsp;&nbsp; Open to meaningful ML projects — let's build something!
+
+---
+
+`Python` `SQL` `Pandas` `Scikit-learn` `Tableau` `Jupyter`
+
+[![LinkedIn](https://img.shields.io/badge/Neha_Kadam-0a66c2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nehakadam26)
