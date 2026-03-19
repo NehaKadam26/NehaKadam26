@@ -4,11 +4,8 @@
 
 *Data Science & Analytics · Mumbai, IN*
 
-**End-to-end data pipelines & dashboards that actually make sense.**
 
----
-
-🔨 Currently **Building** data pipelines & dashboards
+🔨 Currently **Building** data pipelines & dashboards that actually make sense
 
 🧠 Currently **Learning** how large language models work
 
