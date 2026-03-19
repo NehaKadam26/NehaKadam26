@@ -1,15 +1,11 @@
-<div align="center">
-
 # 👋 Hi! I'm Neha Kadam
 
-*Data Science & Analytics · Mumbai, IN*
 
+🔨 I'm currently **Building** end-to-end data pipelines & dashboards that actually make sense.
 
-🔨 Currently **Building** data pipelines & dashboards that actually make sense
+🧠 Fascinated by how large language models work.
 
-🧠 Currently **Learning** how large language models work
-
-🤝 Open to **collaborate** on meaningful ML projects
+🤝 I'm looking to **collaborate** on meaningful ML projects — let's build something!
 
 ---
 
@@ -20,5 +16,4 @@
 **Connect with me:**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nehakadam26)
-
-</div>
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NehaKadam26)
