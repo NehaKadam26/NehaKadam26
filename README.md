@@ -1,7 +1,7 @@
-# 👋 Hi! I'm Neha Kadam
+# Hi! I'm Neha Kadam
 
 
-🔨 I'm currently building end-to-end data pipelines & dashboards that actually make sense.
+🔨 Currently building end-to-end data pipelines & dashboards that actually make sense.
 
 🧠 Fascinated by how large language models work.
 
