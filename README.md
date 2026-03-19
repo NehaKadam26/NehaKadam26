@@ -1,17 +1,17 @@
 # 👋 Hi! I'm Neha Kadam
 
 
-🔨 I'm currently **Building** end-to-end data pipelines & dashboards that actually make sense.
+🔨 I'm currently Building end-to-end data pipelines & dashboards that actually make sense.
 
 🧠 Fascinated by how large language models work.
 
-🤝 I'm looking to **collaborate** on meaningful ML projects — let's build something!
+🤝 Open to collaborating on meaningful ML projects — let's build something!
 
----
+
 
 `Python` `SQL` `Pandas` `Scikit-learn` `Tableau` `Jupyter`
 
----
+
 
 **Connect with me:**
 
