@@ -1,17 +1,22 @@
-# Hi! I'm Neha Kadam
+<div align="center">
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00B4D8&width=500&lines=Hello!+I'm+Neha;AI+%7C+ML+%7C+Data+Science)](https://git.io/typing-svg)
 
-🔨 Currently building end-to-end data pipelines & dashboards that actually make sense.
+</div>
+
+---
+
+🔨 I'm currently **Building** end-to-end data pipelines & dashboards that actually make sense.
 
 🧠 Fascinated by how large language models work.
 
 🤝 Open to collaborating on meaningful ML projects — let's build something!
 
-
+---
 
 `Python` `SQL` `Pandas` `Scikit-learn` `Tableau` `Jupyter`
 
-
+---
 
 **Connect with me:**
 
