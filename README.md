@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&duration=4000&pause=2000&color=FC8EAC&center=true&vCenter=true&width=700&height=45&lines=Hello!+I'm+Neha+Kadam;AI+%7C+ML+%7C+Data+Science" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&duration=4000&pause=2000&color=6D9F71&center=true&vCenter=true&width=700&height=45&lines=Hello!+I'm+Neha+Kadam;AI+%7C+ML+%7C+Data+Science" alt="Typing SVG" />
 </p>
 
 
@@ -9,7 +9,7 @@
 
 🧠 Fascinated by how large language models work.
 
-🤝 Open to collaborating on meaningful ML projects — let's build something!
+🤝 Open to collaborating on meaningful ML projects!
 
 ---
 
