@@ -17,29 +17,22 @@
 
 <table align="center">
   <tr>
-    <td align="center" colspan="4"><b>Languages</b></td>
+    <td align="center"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/></td>
+    <td align="center"><img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/></td>
+    <td align="center"><img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/></td>
+    <td align="center"><img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/></td>
   </tr>
   <tr>
-    <td align="center"><img src="https://img.shields.io/badge/Python-6D9F71?style=for-the-badge&logo=python&logoColor=white"/></td>
-    <td align="center"><img src="https://img.shields.io/badge/SQL-588157?style=for-the-badge&logo=mysql&logoColor=white"/></td>
-    <td align="center"><img src="https://img.shields.io/badge/C-A3B18A?style=for-the-badge&logo=c&logoColor=black"/></td>
-    <td align="center"><img src="https://img.shields.io/badge/Java-3A5A40?style=for-the-badge&logo=openjdk&logoColor=white"/></td>
+    <td align="center"><img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/></td>
+    <td align="center"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/></td>
+    <td align="center"><img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/></td>
+    <td align="center"><img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/></td>
   </tr>
   <tr>
-    <td align="center" colspan="4"><b>Data & ML</b></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://img.shields.io/badge/Pandas-344E41?style=for-the-badge&logo=pandas&logoColor=white"/></td>
-    <td align="center"><img src="https://img.shields.io/badge/NumPy-588157?style=for-the-badge&logo=numpy&logoColor=white"/></td>
-    <td align="center"><img src="https://img.shields.io/badge/Scikit--Learn-6D9F71?style=for-the-badge&logo=scikitlearn&logoColor=white"/></td>
-    <td align="center"><img src="https://img.shields.io/badge/TensorFlow-3A5A40?style=for-the-badge&logo=tensorflow&logoColor=white"/></td>
-  </tr>
-  <tr>
-    <td align="center" colspan="4"><b>Tools & Visualization</b></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://img.shields.io/badge/Jupyter-A3B18A?style=for-the-badge&logo=jupyter&logoColor=black"/></td>
-    <td align="center"><img src="https://img.shields.io/badge/Tableau-588157?style=for-the-badge&logo=tableau&logoColor=white"/></td>
+    <td align="center"><img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/></td>
+    <td align="center"><img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/></td>
+    <td align="center"><img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/></td>
+    <td align="center"><img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"/></td>
   </tr>
 </table>
 ---
